@@ -1,1 +1,1 @@
-This is the read me file for my repo. This repo is for training purposes for learning Git.
+This is the read me file for my repo. This repo is for training purposes for learning Git.adding some stuff.
